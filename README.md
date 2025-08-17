@@ -9,7 +9,8 @@ Object-Oriented Programming in C++
 
 This repository contains my learning journey of OOP in C++.
 I have practiced and implemented all the core concepts of Object-Oriented Programming:
-Classes & Objects – Creating blueprints and instances.
+
+[BASICS]-Classes & Objects – Creating blueprints and instances.
 
 1. Encapsulation – Binding data and methods together with restricted access.
 2. Inheritance – Reusing code by deriving new classes from existing ones.
